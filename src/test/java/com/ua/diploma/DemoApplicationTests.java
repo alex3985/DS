@@ -1,4 +1,4 @@
-package com.example.DrivingService;
+package com.ua.diploma;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
